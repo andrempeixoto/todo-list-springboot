@@ -1,0 +1,7 @@
+Spring Boot annotations
+
+https://www.bacancytechnology.com/blog/spring-boot-annotations
+
+study more: 
+- Annotations
+- Maven
