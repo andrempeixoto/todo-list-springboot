@@ -5,3 +5,11 @@ https://www.bacancytechnology.com/blog/spring-boot-annotations
 study more: 
 - Annotations
 - Maven
+- Lombok (lib for managing getter and setters)
+- Spring Data JPA (ORM - it uses Hibernate under the hood)
+  https://medium.com/@leonardogiuliani/o-que-%C3%A9-e-porque-devo-utilizar-o-hibernate-66fae865a22f
+  https://www.alura.com.br/apostila-java-web/uma-introducao-pratica-ao-jpa-com-hibernate
+
+
+environment guide:
+https://efficient-sloth-d85.notion.site/Curso-de-Java-2408d11bfc3447e980fe9460b6293976
