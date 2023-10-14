@@ -1,0 +1,1 @@
+https://start.spring.io/\#!type\=maven-project\&language\=java\&platformVersion\=3.1.4\&packaging\=jar\&jvmVersion\=17\&groupId\=dev.andrepeixoto\&artifactId\=todo-list\&name\=todo-list\&description\=Todo%20List%20Manager\&packageName\=dev.andrepeixoto.todo-list\&dependencies\=devtools,web
