@@ -13,3 +13,7 @@ study more:
 
 environment guide:
 https://efficient-sloth-d85.notion.site/Curso-de-Java-2408d11bfc3447e980fe9460b6293976
+
+For cryptographying passwords: BCrypt
+https://github.com/patrickfav/bcrypt
+
