@@ -14,6 +14,9 @@ study more:
 environment guide:
 https://efficient-sloth-d85.notion.site/Curso-de-Java-2408d11bfc3447e980fe9460b6293976
 
+extensions guide:
+https://efficient-sloth-d85.notion.site/VSCode-51f116b60cdf431e932c965a287c2fcd
+
 For cryptographying passwords: BCrypt
 https://github.com/patrickfav/bcrypt
 
